@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3526085d760c4f9ca393be39e2903473, type: 3}
+  m_Name: FeedLevelUpgrade
+  m_EditorClassIdentifier: 
+  itemPrice: 250
+  itemTextures:
+  - {fileID: 8400000, guid: 17b9bca7ebee3fc4aa4bdbe32be3696b, type: 2}
+  - {fileID: 8400000, guid: 17b9bca7ebee3fc4aa4bdbe32be3696b, type: 2}
+  - {fileID: 8400000, guid: 17b9bca7ebee3fc4aa4bdbe32be3696b, type: 2}
+  - {fileID: 8400000, guid: 36c86d2b2971b004a9e45dd2d0db5c68, type: 2}
+  - {fileID: 8400000, guid: 36c86d2b2971b004a9e45dd2d0db5c68, type: 2}
+  - {fileID: 8400000, guid: 36c86d2b2971b004a9e45dd2d0db5c68, type: 2}
+  shopItemType: 3
+  fishPoolTypes: []

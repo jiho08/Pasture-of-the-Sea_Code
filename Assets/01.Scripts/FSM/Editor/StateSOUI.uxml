@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <engine:TextField label="State name" placeholder-text="filler text" binding-path="stateName" name="StateNameField" />
+    <engine:DropdownField label="Class selector" binding-path="className" name="ClassDropdownField" />
+    <engine:TextField label="Animation param" placeholder-text="filler text" binding-path="animParamName" name="AnimParamField" />
+    <engine:TextField label="Class name" placeholder-text="filler text" binding-path="className" readonly="true" name="ClassNameField" />
+    <engine:Label text="asd" binding-path="animationHash" name="HashLabel" style="align-self: center; top: 25px; font-size: 20px;" />
+</engine:UXML>
